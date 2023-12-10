@@ -40,16 +40,6 @@ To add a new book to the repository, follow these steps:
     └── ...
 ```
 
-## List of Available Books
-
-Here is a list of all the books currently stored in the repository:
-
-1. **Book1_Title.txt**
-2. **Book2_AnotherTitle.pdf**
-3. **Book3_ExcitingAdventure.epub**
-4. **Book4_NewRelease.mobi**
-   <!-- Add more books as needed -->
-
 Feel free to explore, read, and contribute to the Book Repository!
 
 Happy reading! 📚✨
